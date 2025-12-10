@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="tuscan_sun">#EEC643</color>
+    <color name="onyx">#141414</color>
+    <color name="platinum">#EEF0F2</color>
+    <color name="vivid_royal">#0D21A1</color>
+    <color name="prussian_blue">#011638</color>
+
+</resources>
